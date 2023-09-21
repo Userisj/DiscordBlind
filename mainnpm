@@ -1,0 +1,6 @@
+  package name: (package) discordblind
+    version:1.0.0
+      description: Discord
+        entry point:(Main.java)
+          test command:
+          git repository:()
